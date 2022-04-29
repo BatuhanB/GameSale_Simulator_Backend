@@ -1,0 +1,16 @@
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\bin\Debug\net5.0\OOP_GameSalesBackend.exe
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\bin\Debug\net5.0\OOP_GameSalesBackend.deps.json
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\bin\Debug\net5.0\OOP_GameSalesBackend.runtimeconfig.json
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\bin\Debug\net5.0\OOP_GameSalesBackend.runtimeconfig.dev.json
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\bin\Debug\net5.0\OOP_GameSalesBackend.dll
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\bin\Debug\net5.0\OOP_GameSalesBackend.pdb
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.csproj.AssemblyReference.cache
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.AssemblyInfoInputs.cache
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.AssemblyInfo.cs
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.csproj.CoreCompileInputs.cache
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.dll
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\refint\OOP_GameSalesBackend.dll
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.pdb
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\OOP_GameSalesBackend.genruntimeconfig.cache
+C:\Users\balib\source\repos\OOP_GameSalesBackend\OOP_GameSalesBackend\obj\Debug\net5.0\ref\OOP_GameSalesBackend.dll
